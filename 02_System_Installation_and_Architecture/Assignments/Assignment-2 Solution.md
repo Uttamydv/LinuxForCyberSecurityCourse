@@ -48,4 +48,7 @@ hardware configuration like virtual disk (approx 40gb), Physical memory(min 2 gb
 15. Now there is installation of default module and software with the linux distribution
 ![Screenshot (337)](https://github.com/user-attachments/assets/bb7ef53a-7023-4e57-ade9-0286c54ebd6c)
 
-16. **We had Install the Kali linux with full disk encryption using ISO image Hurry!......**
+16. **We had successful Install the Kali linux with full disk encryption using ISO image Hurry!......**
+
+17. After encryption, the Kali operating system requires a password at boot time to decrypt your drive.
+You can also use the cryptsetup utility to manage decryption keys and partitions.
